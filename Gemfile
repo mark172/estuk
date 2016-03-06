@@ -48,3 +48,5 @@ end
 # Bootstrap
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 
+# Simpleform
+gem 'simple_form'
