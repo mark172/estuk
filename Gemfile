@@ -53,3 +53,5 @@ gem 'simple_form'
 
 # Devise
 gem 'devise'
+# CanCan
+gem 'cancan'
