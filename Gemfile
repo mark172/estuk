@@ -55,3 +55,5 @@ gem 'simple_form'
 gem 'devise'
 # CanCan
 gem 'cancan'
+# Paperclip
+gem 'paperclip'
