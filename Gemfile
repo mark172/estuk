@@ -59,3 +59,5 @@ gem 'cancan'
 gem 'paperclip'
 
 gem 'dotenv-rails', group: :development
+# AWS
+gem 'aws-sdk-v1'
